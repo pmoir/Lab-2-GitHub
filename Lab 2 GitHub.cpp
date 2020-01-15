@@ -3,6 +3,7 @@
 //============================================================
 main
 #include <iostream>
+#include "Lab2hello1function.h"
 using namespace std;
 int hello1Function(string name1);
 int hello2Function(string name2);
