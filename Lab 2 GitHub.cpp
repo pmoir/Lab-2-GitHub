@@ -1,4 +1,4 @@
-// Patrick Moir
+// Patrick Moir & Jorge Rodriguez
 // Description: Hello World in C++
 //============================================================
 main
